@@ -49,3 +49,7 @@ gem "rest-client", "~> 2.0"
 gem "json", "~> 2.2"
 
 gem "pg", "~> 1.1"
+
+gem "rack", "~> 2.0"
+
+gem "rack-cors", "~> 1.0"
